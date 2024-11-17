@@ -12,3 +12,7 @@
 |`git pull origin main`||
 |`git fetch origin`||
 |`git merge origin/main`||
+|`git status`||
+|`git diff origin/main`||
+|`git log --oneline --graph --decorate --all`||
+
